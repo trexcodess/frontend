@@ -1,0 +1,1 @@
+import{b as a}from"./index.e259f9c7.js";import{a as i}from"./index.2cf0d985.js";const t=i.create({baseURL:"https://api.coingecko.com/api/v3"});var s=a(({app:o})=>{o.config.globalProperties.$api=t});export{t as api,s as default};
